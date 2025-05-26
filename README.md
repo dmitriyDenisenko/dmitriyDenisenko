@@ -37,3 +37,4 @@ class Dmitry extends Engineer {
 - Building microservices with Kafka + K8s
 - Writing a new article on system design
 - Learning Go (and debugging with frogs 🐸)
+- Learning Kotlin (and debugging with frogs 🐸)
