@@ -1,20 +1,15 @@
+<h1 align="center">Привет, я Дмитрий 🐸</h1>
+<p align="center">
+  Java-разработчик, инженер микросервисов, пью кофе, деплою в Kubernetes и иногда пишу про индексы B-деревьев.
+</p>
 
-<!--
-**dmitriyDenisenko/dmitriyDenisenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🐸 <strong>Кто я?</strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<img src="https://raw.githubusercontent.com/dmitriyDenisenko/dmitriyDenisenko/main/header.png">
-
-Мои проекты:
-
-<p>&bull; <strong>Cepheus-trade</strong> - полноценное приложение, являющееся техническим заданием во время хакатона от компании Совкомбанк. Синхронная микросервисная архитектура, где я ответственен за ветку java и java-dev <br /><a href="https://github.com/cepheus-team/cepheus-trade/tree/main">https://github.com/cepheus-team/cepheus-trade/tree/main</a>&nbsp;<br />&bull;<strong> Explore With Me</strong> &mdash; приложение, которое дает возможность делиться информацией об интересных событиях и помогает найти компанию для участия в них. Микросервисная архитектура с использованием Spring Boot, Hibernate, PostgreSQL и Docker.&nbsp;<br /><a href="https://github.com/dmitriyDenisenko/java-explore-with-me">https://github.com/dmitriyDenisenko/java-explore-with-me</a>&nbsp;<br />&bull; <strong>Filmorate</strong> - REST-сервис с использованием Spring Boot, Maven, Lombok и взаимодействие с БД с помощью JDBC: Кинопоиск для своих - социальная сеть, которая поможет выбрать кино на основе того, какие фильмы вы и ваши друзья смотрите и какие оценки им ставите.&nbsp;<br /><a href="https://github.com/dmitriyDenisenko/java-filmorate">https://github.com/dmitriyDenisenko/java-filmorate</a>&nbsp;<br />&bull; <strong>ShareIt</strong> - REST-сервисы с использованием Spring MVC, SpringData, Hibernate, PostgreSQL. Приложение для обмена вещами среди друзей на время: инструментами, гаджетами, книгами, играми. Как каршеринг, только для вещей.&nbsp;<br /><a href="https://github.com/dmitriyDenisenko/java-shareit">https://github.com/dmitriyDenisenko/java-shareit</a></p>
+```java
+class Dmitry extends Developer {
+    String stack = "Java / Spring Boot / Kafka / K8s / PostgreSQL";
+    String mode = "Always Learning";
+    boolean writesTests = true;
+}
