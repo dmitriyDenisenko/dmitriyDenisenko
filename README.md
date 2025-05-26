@@ -1,22 +1,21 @@
-<h1 align="center">Hi there, I'm Dmitry 🐸</h1>
+<h1 align="center">Hey, I’m Dmitry 🐸</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JmNubSOrG4E63Nv0Op/giphy.gif" width="320" alt="Minecraft Frog" />
+  <img src="https://media.giphy.com/media/JmNubSOrG4E63Nv0Op/giphy.gif" width="300" alt="Minecraft Frog" />
 </p>
 
 ---
 
-🛠 Java Developer | Spring Boot | Kafka | PostgreSQL | Kubernetes  
-🐸 I write code that hops into production and doesn't croak.
+🛠 Software Engineer | Systems Thinking | Backend, Data, DevOps  
+🐸 I care about clean code, reliable systems, and staying curious.
 
 ---
 
-### 🧠 About me
+### 🧠 Who I am
 
 ```java
-class Dmitry extends Developer {
-    String stack = "Java 17 / Spring Boot / Kafka / PostgreSQL / K8s";
-    boolean writesTests = true;
-    boolean likesFrogs = true;
-    String mode = "Always Improving";
+class Dmitry extends Engineer {
+    List<String> tools = List.of("Kafka", "PostgreSQL", "Spring", "Kubernetes", "Go");
+    boolean ownsProduction = true;
+    boolean buildsThoughtfully = true;
 }
