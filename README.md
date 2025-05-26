@@ -1,16 +1,21 @@
 <h1 align="center">Привет, я Дмитрий 🐸</h1>
+
 <p align="center">
-  Java-разработчик, инженер микросервисов, пью кофе, деплою в Kubernetes и иногда пишу про индексы B-деревьев.
+  <img src="https://media.giphy.com/media/JmNubSOrG4E63Nv0Op/giphy.gif" width="300" alt="Minecraft Frog"/>
 </p>
 
 ---
 
-🐸 <strong>Кто я?</strong>
-[![Frog from Minecraft](./assets/frog.gif)](https://www.pinterest.com/pin/684547212148231352/)
+👨‍💻 Java-разработчик | Spring Boot | Kafka | PostgreSQL | K8s | CI/CD  
+🐸 Пишу код, который прыгает в прод без кряков
+
+---
+
+### 🧠 Кто я?
 
 ```java
 class Dmitry extends Developer {
-    String stack = "Java / Spring Boot / Kafka / K8s / PostgreSQL";
+    String stack = "Java 17 / Spring Boot / Kafka / PostgreSQL / K8s";
+    boolean likesFrogs = true;
     String mode = "Always Learning";
-    boolean writesTests = true;
 }
