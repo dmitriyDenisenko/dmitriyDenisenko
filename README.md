@@ -29,3 +29,11 @@ class Dmitry extends Engineer {
   <img src="https://github-readme-stats.vercel.app/api?username=dmitriyDenisenko&show_icons=true&theme=tokyonight&hide=stars&rank_icon=github" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dmitriyDenisenko&layout=compact&theme=tokyonight" width="48%" />
 </p>
+
+---
+
+### 🌱 Currently
+
+- Building microservices with Kafka + K8s
+- Writing a new article on system design
+- Learning Go (and debugging with frogs 🐸)
